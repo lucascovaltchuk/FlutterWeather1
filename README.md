@@ -22,3 +22,5 @@ Um aplicativo simples de previsão do tempo criado com [Flutter](https://flutter
    String apiKey = 'Cole Sua Chave de API Aqui';
    ```
 5. Execute o aplicativo no seu ambiente de desenvolvimento Flutter.
+
+6. 0a4da6a5fb9dd2f11918aef1273a6ab1
